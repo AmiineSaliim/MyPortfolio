@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Supply Chain | EMP Junior Consultant","Data Scientist.", "Business Intelligence Analyst."],
+		strings: ["Supply Chain | EMP Junior Consultant.","Data Scientist.", "Business Intelligence Analyst."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
