@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Supply Chain | EPM Junior Consultant.","Data Scientist.", "Business Intelligence Analyst."],
+		strings: ["EPM Junior Consultant.","Data Engineer.","Business Intelligence Analyst."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
