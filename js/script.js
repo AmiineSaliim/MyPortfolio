@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["EPM Junior Consultant.","Data Engineer.","Business Intelligence Analyst."],
+		strings: ["Data Engineer.","Business Intelligence Engineer.","AI Enthusiast"],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
