@@ -25,7 +25,7 @@ Welcome to my Data Portfolio! I’m Amine Salim, a passionate Business Intellige
    - **Tech Stack:** Power BI, SQL, Python
 
 ### 4. **Custom Visualizations with DAX**
-   - **Description:** Demonstrated the impact of different DAX formulas on Power BI visuals by comparing `TotalSalesExceptCategory` and `AllSalesOrderTable`.
+   - **Description:** Demonstrated the impact of different DAX formulas on Power BI visuals.
    - **Tech Stack:** Power BI, DAX
 
 ## 🌱 Current Path
